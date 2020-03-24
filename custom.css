@@ -1,0 +1,9 @@
+div #maintoolbar {
+  display: none !important;
+}
+
+div #first_div {
+  display: none !important;
+  font-color:"gray";
+}
+
